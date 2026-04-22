@@ -1,7 +1,30 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=291B3E&height=150&section=header" />
+</p>
+
+
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=291B3E&height=200&text=gab309&fontColor=ffffff&fontSize=50" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&duration=3000&pause=1000&color=FF64DA&center=true&vCenter=true&width=600&height=100&lines=Ol%C3%A1%2C+me+chamo+Gabrielly+Cesario" </p>
+<p align="center"> 
+
+  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=%E2%9C%A8+Desenvolvedora+apaixonada+por+tecnologia+%E2%9C%A8;%F0%9F%8C%B8+Criando+solu%C3%A7%C3%B5es+que+fazem+a+diferen%C3%A7a+%F0%9F%8C%B8;%F0%9F%92%AB+Sempre+aprendendo+algo+novo+%F0%9F%92%AB" />
 </p>
+
+<p align="center">
+  <font face="Dancing Script" color="white">🌍 Brasileira com muito orgulho! &nbsp;&nbsp; 💻 Focada em Front-end &nbsp;&nbsp; 🏆 Apaixonada por desafios</font>
+</p>
+
+<br/>
+
+<p align="center">
+  <font face="Dancing Script" color="#FF64DA"><i>"Código é como humor... Quando tem que explicar, é ruim." 😄</i></font>
+</p>
+
+
+
 <div>
 <table>
   <tr>
@@ -30,7 +53,9 @@
   <img src="https://i.imgur.com/NX8EeAh.jpeg" width="300" />
 </p>
 </div>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=291B3E&height=200&fontColor=ffffff&section=footer" />
+</p>
 
 
 
