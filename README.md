@@ -6,7 +6,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&duration=3000&pause=1000&color=FF64DA&center=true&vCenter=true&width=600&height=100&lines=Ol%C3%A1%2C+me+chamo+Gabrielly+Cesario" </p>
-<p align="center"> 
+<p align="center">
+  
+  <p align="center">
+  <img src="https://i.imgur.com/nd9REbw.jpeg" width="300" />
+</p>
 
   
 <p align="center">
@@ -47,12 +51,13 @@
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-291B3E?logo=Gmail" height="60"  />
 </p>
 
+
   
-</div>
-  <p align="center">
+   <p align="center">
   <img src="https://i.imgur.com/NX8EeAh.jpeg" width="300" />
 </p>
-</div>
+</div
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=291B3E&height=200&fontColor=ffffff&section=footer" />
 </p>
